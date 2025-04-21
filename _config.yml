@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: kramdown
+highlighter: rouge
 
 # Permalinks
 permalink:        pretty
@@ -21,4 +21,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/gabru-md/gabru-md.gothub.io
+  repo:           https://github.com/gabru-md/gabru-md.github.io

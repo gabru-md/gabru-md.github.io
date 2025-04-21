@@ -5,8 +5,6 @@ date: 2025-04-21
 tags: [typescript, web-audio, code]
 ---
 
-## Evolving the Announcer System — Smarter Queueing + Voice Switching
-
 Not long ago, I added a fun little **announcer voice** feature to my tournament app—things like “Get ready to fight!” or “You have won the game!” would play during key moments, just to give the whole thing a bit more energy.
 
 It worked great! But like all things in dev... there was room for improvement.

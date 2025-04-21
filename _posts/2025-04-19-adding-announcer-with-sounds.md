@@ -5,8 +5,6 @@ date: 2025-04-19
 tags: [typescript, web-audio, code]
 ---
 
-## Creating an Announcer System
-
 While working on my latest side project—a tournament app—I had this idea: *"What if there was an announcer hyping things up?"* You know, moments like “Get ready to fight!” or “You have won the game!” just feel so much more exciting when someone *says* them.
 
 So I put together a little TypeScript setup to handle announcer-style voice clips, and it ended up being super handy. Here's a quick breakdown of how it works and how you can do something similar.

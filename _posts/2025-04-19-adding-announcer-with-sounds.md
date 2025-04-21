@@ -1,4 +1,11 @@
-## Adding Announcer to Project
+---
+layout: post
+title: "Creating an Announcer System"
+date: 2025-04-19
+tags: [typescript, web-audio, code]
+---
+
+## Creating an Announcer System
 
 While working on my latest side project—a tournament app—I had this idea: *"What if there was an announcer hyping things up?"* You know, moments like “Get ready to fight!” or “You have won the game!” just feel so much more exciting when someone *says* them.
 
@@ -97,7 +104,5 @@ private async playPitchAudio(url: string, pitch: number = 0.95): Promise<void> {
 Right now I’m using a pitch of `0.95`—just enough to give the voice a deeper, slightly more epic tone. You could totally tweak this or randomize it if you want more variation.
 
 ---
-
-## Finally
 
 A lightweight setup that added some extra polish to the app using static class patterns and the Web Audio API.
